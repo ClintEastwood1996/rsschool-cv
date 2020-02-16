@@ -40,4 +40,4 @@
   ---
 
 ## 7. English 
-    intermediate(A1)
+    intermediate(B1)
