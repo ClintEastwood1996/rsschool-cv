@@ -18,4 +18,10 @@
     position: absolute;
     top: 0;
     right: 20px;
+    outline: 2px solid #000000;
+    outline-offset: 8px;
+}
+
+.photo:hover {
+    outline-offset: 12px;
 }
