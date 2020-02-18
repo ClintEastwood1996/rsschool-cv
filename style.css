@@ -1,0 +1,24 @@
+.container {
+    margin: 0 auto;
+    width: 80%;
+    max-width: 1024px;
+    min-width: 500px;
+}
+
+.section {
+    border-bottom: 1px solid #808080;
+}
+
+.wrapper {
+    position: relative;
+}
+
+.wrapper .section {
+    width: 50%;
+}
+
+.photo {
+    position: absolute;
+    top: 0;
+    right: 5%;
+}
