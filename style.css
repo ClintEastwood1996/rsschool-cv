@@ -11,14 +11,11 @@
 
 .wrapper {
     position: relative;
-}
-
-.wrapper .section {
-    width: 50%;
+    padding-right: 250px;
 }
 
 .photo {
     position: absolute;
     top: 0;
-    right: 5%;
+    right: 20px;
 }
