@@ -1,0 +1,27 @@
+.container {
+    margin: 0 auto;
+    width: 80%;
+    max-width: 1024px;
+    min-width: 500px;
+}
+
+.section {
+    border-bottom: 1px solid #808080;
+}
+
+.wrapper {
+    position: relative;
+    padding-right: 250px;
+}
+
+.photo {
+    position: absolute;
+    top: 0;
+    right: 20px;
+    outline: 2px solid #000000;
+    outline-offset: 8px;
+}
+
+.photo:hover {
+    outline-offset: 12px;
+}
